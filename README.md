@@ -1,6 +1,6 @@
 # unmuzzle
 
-Do you like [Muzzle](https://muzzleapp.com/)'s notifications but wished you had such an exciting life? Well now you can!
+Do you like [Muzzle](https://muzzleapp.com/)'s notifications on it's landing page but wished you had such exciting notifications to mute? Well now you can!
 
 ### Quickstart
 
