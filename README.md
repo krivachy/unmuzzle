@@ -13,6 +13,10 @@ cd unmuzzle
 node unmuzzle.js
 ```
 
+Want a more authentic notification experience?
+
+> To enable actions on the notification (the buttons that allow the user to select an option), open System Preferences > Notifications, select terminal-notifer in the sidebar, and select the "Alerts" alert style. 
+
 ### Requirements
 
 * Some version of node. I used v7.7.1
@@ -30,7 +34,6 @@ node unmuzzle.js 3000
 
 * The terminal icon from terminal-notifier is always visible. Don't think this can be remove. Please submit PR if you know otherwise.
 * Some notifications don't work and get displayed.
-* Actions don't work
 
 ### Credits
 
