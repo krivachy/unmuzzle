@@ -1,5 +1,5 @@
 // Shuffle notifications
-const notifications = require('./notifications.json');
+const notifications = shuffle(require('./notifications.json'));
 const child_process = require('child_process');
 
 const maleNames = [
